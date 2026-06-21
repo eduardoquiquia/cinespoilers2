@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
-import type { Movie } from "@/types/movie";
+// import type { Movie } from "@/types/movie";
+import type { Movie } from "../../types/movies";
 
 import {
     Card,
