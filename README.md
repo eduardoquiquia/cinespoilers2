@@ -78,3 +78,11 @@ Asimismo, se implementó un sistema de rutas para la navegación entre páginas,
 ![alt text](<docs/Captura de pantalla 2026-06-21 121624.png>)
 
 ![alt text](<docs/Captura de pantalla 2026-06-21 121652.png>)
+
+## 5. Despliegue en Netlify
+
+### Evidencia
+
+![alt text](<docs/Captura de pantalla 2026-06-21 123515.png>)
+
+- Link de la página: https://my-cinespoilers2.netlify.app/
